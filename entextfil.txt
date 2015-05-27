@@ -1,3 +1,6 @@
 hej
 
 faktiskt
+
+Welcome to git! *Cheers*
+//TuX 
